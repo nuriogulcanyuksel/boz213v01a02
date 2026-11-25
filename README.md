@@ -1,4 +1,4 @@
-SUNUM AKICILIĞI ANALİZÖRÜ
+SUNUM AKICILIĞI ANALİZ PROGRAMI
 
 Öğrenci sunumlarında konuşma hızı ve dolgu sözcüklerinin Python tabanlı otomatik analizi
 
