@@ -34,8 +34,6 @@ DOĞRULAMA
 
 Yazılımın çıktıları, iki araştırmacının birbirinden bağımsız olarak elle etiketlediği referans kayıtlarla karşılaştırılır.
 
-Pilot (10 kayıt): Dolgu sözcük tespitinde F1 ≥ 0,70, konuşma hızında elle hesaplamayla r ≥ 0,90 hedeflenir. Sözlük, başlangıç istemi ve duraksama eşiği bu verilere göre ayarlanır.
-Ana doğrulama (en az 20 kayıt): Kesinlik, duyarlık, F1 ve korelasyon hesaplanır. Etiketleyiciler arası uyum için Cohen kappa ≥ 0,61 hedeflenir.
 KAPSAM VE SINIRLILIKLAR
 
 Araç yalnızca ses boyutuna odaklanır. İçerik, ses tonu, vurgu, göz teması ve beden dili kapsam dışıdır.
